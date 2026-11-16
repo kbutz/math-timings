@@ -1,0 +1,10 @@
+{
+  "name": "Math Festival: Sky-Ship Launch",
+  "short_name": "Math Festival",
+  "description": "Zelda-inspired 3D Montessori math-fact Sky-Ship adventure",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a"
+}
